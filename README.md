@@ -2,9 +2,6 @@
 
 [![Games](https://img.itch.zone/aW1hZ2UyL2phbS8yNjQ2ODAvNzEwNTIxMC5naWY=/original/djg1gu.gif)](https://itch.io/jam/game-off-2021)
 
-
-
-
 **DarkAiProgram/DarkAiProgram** is a ✨ _special_ ✨ repository
 
 Here are some ideas to get you started:
@@ -18,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<div align="center">
+  
+  [![Games](https://github.com/DarkAiProgram/Test/blob/main/GIF/261-emoji-smile-outline%20(1).gif)](https://itch.io/jam/game-off-2021)
+  
+<div> 
